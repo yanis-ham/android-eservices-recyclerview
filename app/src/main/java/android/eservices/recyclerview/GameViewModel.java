@@ -6,7 +6,7 @@ public class GameViewModel {
     private String title;
     private String description;
     private String imageUrl;
-private String uuid;
+    private String uuid;
 
     public GameViewModel(String title, String description, String imageUrl) {
         this.title = title;
